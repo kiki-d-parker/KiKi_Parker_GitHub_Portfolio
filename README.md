@@ -1,4 +1,5 @@
 # KiKi Parker's GitHub Portfolio
+## Introduction
 This repository contains a collection of my portfolio projects which utilize SQL and Python.
 ## Projects
 ### [Taylor Swift Spotify Statistics](https://github.com/kiki-d-parker/SQL_Portfolio/blob/main/Taylor_Swift_Spotify_Statistics/Taylor_Swift_Spotify_Statistics_Queries.md)
