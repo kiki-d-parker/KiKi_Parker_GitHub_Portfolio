@@ -1,5 +1,4 @@
-# Email Engagement and Sales Performance
-## Queries
+## Email Engagement and Sales Performance Queries
 
 **Sales by Product**
 ````sql
