@@ -1,5 +1,4 @@
-# Taylor Swift Spotify Statistics
-## Queries
+## Taylor Swift Spotify Statistics Queries
 
 **Total Followers**
 ````sql
