@@ -1,5 +1,4 @@
-# Twitch Global Statistics
-## Queries
+## Twitch Global Statistics Queries
 
 **Top 10 Games by Hours Watched**
 ````sql
