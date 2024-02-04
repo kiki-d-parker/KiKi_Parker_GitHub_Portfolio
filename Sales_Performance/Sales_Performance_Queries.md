@@ -1,5 +1,4 @@
-# Sales Performance
-## Queries
+## Sales Performance Queries
 
 **Monthly Sales, Costs, and Profits**
 ````sql
