@@ -8,15 +8,15 @@ This repository contains a collection of my portfolio projects which utilize SQL
 * [Kworb.net](https://kworb.net)
 * [Wikipedia.org](https://www.wikipedia.org)
 ---
-### [Twitch Global Statistics](https://github.com/kiki-d-parker/SQL_Portfolio/blob/main/Twitch_Global_Statistics/Twitch_Global_Statistics_Queries.md)
-* An analysis of Twitch's global statistics from 2023
-#### Data Source:
-* [SullyGnome.com](https://sullygnome.com/)
----
 ### [Sales Performance](https://github.com/kiki-d-parker/SQL_Portfolio/blob/main/Sales_Performance/Sales_Performance_Queries.md)
 * An analysis of a fictional company's sales performance spanning from January 2020 to May 2020
 #### Data Source:
 * [Enterprise DNA](https://forum.enterprisedna.co/t/power-bi-builds-1-executive-sales-report/7705)
+---
+### [Twitch Global Statistics](https://github.com/kiki-d-parker/SQL_Portfolio/blob/main/Twitch_Global_Statistics/Twitch_Global_Statistics_Queries.md)
+* An analysis of Twitch's global statistics from 2023
+#### Data Source:
+* [SullyGnome.com](https://sullygnome.com/)
 ---
 ### [Email Engagement and Sales Performance](https://github.com/kiki-d-parker/SQL_Portfolio/blob/main/Email_Engagement_and_Sales_Performance/Email_Engagement_and_Sales_Performance_Queries.md)
 * An analysis of a fictional company's email engagement and sales performance spanning from January 2019 to December 2019
